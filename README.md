@@ -1,7 +1,7 @@
 <div align="center">
   
 <h2> 🙋‍♂️ Introduce </h2>
-  <p> 안녕하세요!  누구나 함께 일하고 싶어하는 </p>
+  <p> 안녕하세요! 누구나 함께 일하고 싶어하는 </p>
   <p> Back-End Engineer + Web-Developer 가 되고 싶은 정요원 입니다. </p>
 
 <h2> 💻Stacks </h2>
